@@ -1,7 +1,7 @@
 #include<iostream>
 
 using namespace std;
-
+//arrayclass
 class Array{
 private:
   int *arr; //pointer array
